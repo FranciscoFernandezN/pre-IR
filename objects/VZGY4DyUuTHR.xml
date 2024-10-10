@@ -4,5 +4,16 @@
     <stringProperty name=":Proteus-name" category="general"><![CDATA[Descripción de procesos de negocio actuales]]></stringProperty>
     <markdownProperty name="comments" category="general"><![CDATA[]]></markdownProperty>
   </properties>
-  <children/>
+  <children>
+    <child id="pjiAzMQdv7od"/>
+    <child id="5zxfLJJzf5bL"/>
+    <child id="43gS3LALZKRf"/>
+    <child id="4vKv5VeW7eB5"/>
+    <child id="3YGszyGY2jMD"/>
+    <child id="6rJ2PBfmVkg9"/>
+    <child id="qEBALHjak4vT"/>
+    <child id="7jxqfDZy89ZH"/>
+    <child id="3Euf98hSiwt4"/>
+    <child id="4beaEeomiZT3"/>
+  </children>
 </object>
