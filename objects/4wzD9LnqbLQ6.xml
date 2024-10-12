@@ -9,12 +9,12 @@
     <timeProperty name="time" category="detail">15:30:00</timeProperty>
     <stringProperty name="place" category="detail"><![CDATA[Google Meet (videoconferencia)]]></stringProperty>
     <traceProperty name="attenders" category="detail" acceptedTargets="stakeholder" traceType=":Proteus-information-source">
+      <trace target="4MEzv7dKMycx" traceType=":Proteus-information-source"/>
       <trace target="7ag8PDFUAgUS" traceType=":Proteus-information-source"/>
       <trace target="4U872CDSFiBq" traceType=":Proteus-information-source"/>
       <trace target="3GFRVJuqSype" traceType=":Proteus-information-source"/>
       <trace target="57DxS4SoPgZp" traceType=":Proteus-information-source"/>
       <trace target="7TwNCWTndHAL" traceType=":Proteus-information-source"/>
-      <trace target="4MEzv7dKMycx" traceType=":Proteus-information-source"/>
     </traceProperty>
     <markdownProperty name="results" category="results"><![CDATA[Primero, se llevó a cabo una presentación de cada uno de los participantes y hubo una breve conversación informal para conocerse.
 
