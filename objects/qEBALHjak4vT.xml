@@ -11,7 +11,7 @@
     </traceProperty>
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
     <markdownProperty name="description" category="detail"><![CDATA[En este proceso de negocio, el propietario iniciará un proceso de contratación en el cual, una vez encontrado a un profesional de su preferencia, enviará un mensaje con la información y condiciones del trabajo.
-Si el profesional rechaza la oferta se dará por terminado el proceso, sino pedirá el contrato para firmarlo. En caso de no recibir respuesta al mensaje inicial de contacto, se repetirá el proceso.]]></markdownProperty>
+Si el profesional rechaza la oferta se dará por terminado el proceso, sino pedirá el contrato para firmarlo. En caso de no recibir respuesta al mensaje inicial de contacto, se repetirá el proceso de búsqueda.]]></markdownProperty>
     <enumProperty name="importance" category="detail" choices="tbd critical high medium low optional">high</enumProperty>
     <fileProperty name="diagram" category="detail" tooltip="file-info"><![CDATA[]]></fileProperty>
     <integerProperty name="width" category="detail" tooltip="width-info">20</integerProperty>

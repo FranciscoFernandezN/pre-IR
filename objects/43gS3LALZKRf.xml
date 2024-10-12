@@ -10,7 +10,7 @@
       <trace target="7ag8PDFUAgUS" traceType=":Proteus-author"/>
     </traceProperty>
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
-    <markdownProperty name="description" category="detail"><![CDATA[En este proceso de negocio, un cliente interesado en un tratamiento deberá contactar con un responsable. Se producirá un intercambio de mensajes en el que se darán todos los detalles pertinentes sobre la cita (fecha, tratamiento, profesional al cargo...) y una vez realizado dicho tratamiento se procederá con el pago de este.]]></markdownProperty>
+    <markdownProperty name="description" category="detail"><![CDATA[En este proceso de negocio, un cliente interesado en un tratamiento deberá contactar con un responsable. Se producirá un intercambio de mensajes en el que se darán todos los detalles pertinentes sobre la cita (fecha, tratamiento, profesional al cargo...) y una vez realizado dicho tratamiento se procederá con el pago de este a posteriori, para revisar la conformidad del cliente con el tratamiento.]]></markdownProperty>
     <enumProperty name="importance" category="detail" choices="tbd critical high medium low optional">critical</enumProperty>
     <fileProperty name="diagram" category="detail" tooltip="file-info"><![CDATA[]]></fileProperty>
     <integerProperty name="width" category="detail" tooltip="width-info">20</integerProperty>

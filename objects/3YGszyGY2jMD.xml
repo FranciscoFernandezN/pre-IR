@@ -10,7 +10,7 @@
       <trace target="7ag8PDFUAgUS" traceType=":Proteus-author"/>
     </traceProperty>
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
-    <markdownProperty name="description" category="detail"><![CDATA[Este proceso de negocio se lleva a cabo una vez finalizado el periodo de enseñanza de manera satisfactoria. Aqui un alumno contactará con su profesor pertinente para realizar la tramitanción de su título/certificado, que será creado y firmado por el propietario y entregado al alumno por mano del profesor.]]></markdownProperty>
+    <markdownProperty name="description" category="detail"><![CDATA[Este proceso de negocio se lleva a cabo una vez finalizado el periodo de enseñanza de manera satisfactoria. Aquí un alumno contactará con su profesor pertinente para realizar la tramitación de su título/certificado, que será creado y firmado por el propietario y entregado al alumno por mano del profesor.]]></markdownProperty>
     <enumProperty name="importance" category="detail" choices="tbd critical high medium low optional">medium</enumProperty>
     <fileProperty name="diagram" category="detail" tooltip="file-info"><![CDATA[]]></fileProperty>
     <integerProperty name="width" category="detail" tooltip="width-info">20</integerProperty>
