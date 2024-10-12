@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="4zD9Kj8zjxUM" classes="general-traceable-object paragraph" acceptedChildren=":Proteus-none" acceptedParents=":Proteus-document section">
+  <properties>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Objetivos del proyecto]]></stringProperty>
+    <dateProperty name=":Proteus-date" category="general">2024-10-12</dateProperty>
+    <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
+    <traceProperty name="created-by" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author">
+      <trace target="7TwNCWTndHAL" traceType=":Proteus-author"/>
+    </traceProperty>
+    <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
+    <markdownProperty name="text" category="detail"><![CDATA[Lo que pretende este proyecto será que los profesionales de la empresa puedan gestionar fácilmente sus clases/tratamientos a través de una base de datos. Gracias a esta, el proyecto también será útil para clientes y alumnos, pues podrán inscribirse/pedir cita desde ella.
+
+-Se llevará a cabo una **transformación tecnológica**, pues se incorporarán nuevas herramientas digitales debido a que las ya existentes están un poco obsoletas.
+
+-Los usuarios del centro tendrán una nueva alternativa mucho más cómoda para pedir citas, apuntarse a clases, gestionar citas y clases, etc. Esto supondrá una **mejor experiencia de usuario**.
+
+-Como consecuencia de lo anterior, ocurrirá un **crecimiento financiero** al haber mejorado su sistema de negocio.]]></markdownProperty>
+    <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object" traceType=":Proteus-dependency"/>
+    <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
+  </properties>
+  <children/>
+</object>

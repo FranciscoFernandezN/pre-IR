@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="5pSQqB9T7wuv" classes="general-traceable-object paragraph" acceptedChildren=":Proteus-none" acceptedParents=":Proteus-document section">
+  <properties>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Dominio del problema]]></stringProperty>
+    <dateProperty name=":Proteus-date" category="general">2024-10-12</dateProperty>
+    <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
+    <traceProperty name="created-by" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author">
+      <trace target="7TwNCWTndHAL" traceType=":Proteus-author"/>
+    </traceProperty>
+    <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
+    <markdownProperty name="text" category="detail"><![CDATA[En Naturalmente, los usuarios que quieren recibir un tratamiento (clientes) reservan una cita para que uno de los masajistas se lo haga en un día y hora en el que esté disponible. Dicho masajista podrá ver cuando es la cita, además de ciertos datos respecto al cliente (por ejemplo, su nombre, sus citas anteriores, etc.).
+
+Por otro lado, los usuarios que quieren recibir clases (alumnos) se apuntarán a un curso que les interese. El profesor que imparta dicho curso puede ver los nombres de los alumnos que estén apuntados.
+
+Actualmente, este proceso se lleva a cabo contactando con la empresa en persona, o mediante teléfono o correo electrónico. Además, los datos de los tratamientos son guardados en una base de datos obsoleta, y los datos de los cursos en un soporte no digital (únicamente escritos en papel).]]></markdownProperty>
+    <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object" traceType=":Proteus-dependency"/>
+    <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
+  </properties>
+  <children/>
+</object>
