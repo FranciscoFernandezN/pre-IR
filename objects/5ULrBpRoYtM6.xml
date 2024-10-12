@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="5ULrBpRoYtM6" classes="general-traceable-object paragraph" acceptedChildren=":Proteus-none" acceptedParents=":Proteus-document section">
+  <properties>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Descripción objetivos de negocio]]></stringProperty>
+    <dateProperty name=":Proteus-date" category="general">2024-10-10</dateProperty>
+    <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
+    <traceProperty name="created-by" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
+    <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
+    <markdownProperty name="text" category="detail"><![CDATA[El propietario de la empresa, David, ha sugerido implementar funcionalidades así como la de que un alumno pueda pedir plaza o un cliente pida cita telemáticamente. David tenía una base de datos como tal ya construida, sin embargo estaba muy limitada y ahora obsoleta, es así como nos ha pedido que se pueda detallar en ella el estado de un paciente registrado después de un tratamiento, las notas de alumnos registrados y poder otorgar títulos a estos.]]></markdownProperty>
+    <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object" traceType=":Proteus-dependency"/>
+    <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
+  </properties>
+  <children/>
+</object>

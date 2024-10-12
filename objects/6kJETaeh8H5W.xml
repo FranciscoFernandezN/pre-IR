@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="6kJETaeh8H5W" classes="section" acceptedChildren=":Proteus-any" acceptedParents=":Proteus-document section">
+  <properties>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Descripción de actores de negocio a implementar]]></stringProperty>
+    <markdownProperty name="comments" category="general"><![CDATA[]]></markdownProperty>
+  </properties>
+  <children>
+    <child id="4ALxc9xs69As"/>
+    <child id="6p9wqDbfq25r"/>
+    <child id="3oPRaEvz7DHL"/>
+    <child id="5t5k7qYoC92W"/>
+    <child id="4rzzzrM9Hub4"/>
+  </children>
+</object>
