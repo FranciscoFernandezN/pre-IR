@@ -5,7 +5,10 @@
     <stringProperty name=":Proteus-name" category="general"><![CDATA[Recibimiento de feedback de un tratamiento]]></stringProperty>
     <dateProperty name=":Proteus-date" category="general">2024-10-10</dateProperty>
     <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
-    <traceProperty name="created-by" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
+    <traceProperty name="created-by" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author">
+      <trace target="3GFRVJuqSype" traceType=":Proteus-author"/>
+      <trace target="7ag8PDFUAgUS" traceType=":Proteus-author"/>
+    </traceProperty>
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
     <markdownProperty name="description" category="detail"><![CDATA[En este diagrama se detalla el proceso que se lleva a cabo posteriormente a una sesión de masaje. Este conlleva el intercambio de mensajes necesario para que el profesional escriba un reporte con toda la información obtenida.]]></markdownProperty>
     <enumProperty name="importance" category="detail" choices="tbd critical high medium low optional">low</enumProperty>

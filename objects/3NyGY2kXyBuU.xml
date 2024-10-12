@@ -4,7 +4,9 @@
     <stringProperty name=":Proteus-name" category="general"><![CDATA[Entorno hardware actual]]></stringProperty>
     <dateProperty name=":Proteus-date" category="general">2024-10-11</dateProperty>
     <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
-    <traceProperty name="created-by" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
+    <traceProperty name="created-by" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author">
+      <trace target="7ag8PDFUAgUS" traceType=":Proteus-author"/>
+    </traceProperty>
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
     <markdownProperty name="text" category="detail"><![CDATA[En cuanto al entorno hardware, según el propietario de la empresa, no cuentan con una infraestructura como tal. Actualmente la información es guardada tanto físicamente en documentos como en un ordenador de la empresa (en documentos tipo word o excel) al que solo tiene acceso él. Cualquier registro de datos o información se encuentran alojados fisicamente en las distintas sedes.]]></markdownProperty>
     <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object" traceType=":Proteus-dependency"/>

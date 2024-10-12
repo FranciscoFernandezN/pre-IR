@@ -5,7 +5,10 @@
     <stringProperty name=":Proteus-name" category="general"><![CDATA[Reserva de tratamientos]]></stringProperty>
     <dateProperty name=":Proteus-date" category="general">2024-10-10</dateProperty>
     <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
-    <traceProperty name="created-by" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
+    <traceProperty name="created-by" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author">
+      <trace target="3GFRVJuqSype" traceType=":Proteus-author"/>
+      <trace target="7ag8PDFUAgUS" traceType=":Proteus-author"/>
+    </traceProperty>
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
     <markdownProperty name="description" category="detail"><![CDATA[En este proceso de negocio, un cliente interesado en un tratamiento deberá contactar con un responsable. Se producirá un intercambio de mensajes en el que se darán todos los detalles pertinentes sobre la cita (fecha, tratamiento, profesional al cargo...) y una vez realizado dicho tratamiento se procederá con el pago de este.]]></markdownProperty>
     <enumProperty name="importance" category="detail" choices="tbd critical high medium low optional">critical</enumProperty>

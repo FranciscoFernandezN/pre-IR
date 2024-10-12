@@ -5,7 +5,9 @@
     <stringProperty name=":Proteus-name" category="general"><![CDATA[Página web atractiva]]></stringProperty>
     <dateProperty name=":Proteus-date" category="general">2024-10-08</dateProperty>
     <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
-    <traceProperty name="created-by" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
+    <traceProperty name="created-by" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author">
+      <trace target="3GFRVJuqSype" traceType=":Proteus-author"/>
+    </traceProperty>
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
     <markdownProperty name="description" category="detail"><![CDATA[Como *Naturalmente* dispone de una página web llamativa, permite captar usuarios de manera sencilla, proporcionando toda la información necesaria para el nuevo alumno o cliente. ]]></markdownProperty>
     <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object business-requirement" traceType=":Proteus-dependency"/>

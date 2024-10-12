@@ -5,11 +5,13 @@
     <stringProperty name=":Proteus-name" category="general"><![CDATA[Pérdida de información]]></stringProperty>
     <dateProperty name=":Proteus-date" category="general">2024-10-11</dateProperty>
     <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
-    <traceProperty name="created-by" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
+    <traceProperty name="created-by" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author">
+      <trace target="7ag8PDFUAgUS" traceType=":Proteus-author"/>
+    </traceProperty>
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
     <markdownProperty name="description" category="detail"><![CDATA[Al tener guardado la mayoría de documentos con información relevante en papel, estos pueden dispersarse, estropearse o mezclarse con otros dando lugar a su pérdida.
 
-Según palabras del propietario tienen estanterías llenas de papeles y es fácil que se puedan llegar a mezclar.]]></markdownProperty>
+Según palabras del propietario: "Tenemos estanterías llenas de papeles y es fácil que se puedan llegar a mezclar".]]></markdownProperty>
     <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object business-requirement" traceType=":Proteus-dependency"/>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>

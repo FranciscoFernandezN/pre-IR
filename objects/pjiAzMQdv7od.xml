@@ -5,7 +5,10 @@
     <stringProperty name=":Proteus-name" category="general"><![CDATA[Inscripción de alumno]]></stringProperty>
     <dateProperty name=":Proteus-date" category="general">2024-10-10</dateProperty>
     <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
-    <traceProperty name="created-by" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
+    <traceProperty name="created-by" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author">
+      <trace target="3GFRVJuqSype" traceType=":Proteus-author"/>
+      <trace target="7ag8PDFUAgUS" traceType=":Proteus-author"/>
+    </traceProperty>
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
     <markdownProperty name="description" category="detail"><![CDATA[En este proceso de negocio, un alumno se inscribe en un curso determinado. Para ello, requiere que este contacte con un responsable y se produzca un intercambio de mensajes que dure hasta que se vean resueltas todas las dudas del interesado. Posteriormente a esto el alumno procederá a ingresar el pago de inscripción]]></markdownProperty>
     <enumProperty name="importance" category="detail" choices="tbd critical high medium low optional">critical</enumProperty>

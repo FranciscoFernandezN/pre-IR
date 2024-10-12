@@ -5,7 +5,9 @@
     <stringProperty name=":Proteus-name" category="general"><![CDATA[Privacidad de los datos de la empresa]]></stringProperty>
     <dateProperty name=":Proteus-date" category="general">2024-10-08</dateProperty>
     <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
-    <traceProperty name="created-by" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
+    <traceProperty name="created-by" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author">
+      <trace target="3GFRVJuqSype" traceType=":Proteus-author"/>
+    </traceProperty>
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
     <markdownProperty name="description" category="detail"><![CDATA[Al no disponer de una base de datos, las finanzas y estadísticas de la empresa son datos solo conocidos por el máximo responsable, manteniendo estos documentos privados y sin permitir la posiblidad de una brecha de seguridad.]]></markdownProperty>
     <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object business-requirement" traceType=":Proteus-dependency"/>

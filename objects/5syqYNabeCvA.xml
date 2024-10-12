@@ -5,7 +5,9 @@
     <stringProperty name=":Proteus-name" category="general"><![CDATA[Dificultad para el estudio telematico]]></stringProperty>
     <dateProperty name=":Proteus-date" category="general">2024-10-11</dateProperty>
     <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
-    <traceProperty name="created-by" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
+    <traceProperty name="created-by" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author">
+      <trace target="7ag8PDFUAgUS" traceType=":Proteus-author"/>
+    </traceProperty>
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
     <markdownProperty name="description" category="detail"><![CDATA[Un estudiante solo puede estudiar el material que le proporcionen físicamente en las clases y no hacerlo por su cuenta a traves de una plataforma online donde se encontrarían contenidos específicos sobre las asignaturas.]]></markdownProperty>
     <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object business-requirement" traceType=":Proteus-dependency"/>

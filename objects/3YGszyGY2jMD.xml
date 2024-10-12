@@ -5,7 +5,10 @@
     <stringProperty name=":Proteus-name" category="general"><![CDATA[Tramitación del certificado]]></stringProperty>
     <dateProperty name=":Proteus-date" category="general">2024-10-10</dateProperty>
     <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
-    <traceProperty name="created-by" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
+    <traceProperty name="created-by" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author">
+      <trace target="3GFRVJuqSype" traceType=":Proteus-author"/>
+      <trace target="7ag8PDFUAgUS" traceType=":Proteus-author"/>
+    </traceProperty>
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
     <markdownProperty name="description" category="detail"><![CDATA[Este proceso de negocio se lleva a cabo una vez finalizado el periodo de enseñanza de manera satisfactoria. Aqui un alumno contactará con su profesor pertinente para realizar la tramitanción de su título/certificado, que será creado y firmado por el propietario y entregado al alumno por mano del profesor.]]></markdownProperty>
     <enumProperty name="importance" category="detail" choices="tbd critical high medium low optional">medium</enumProperty>

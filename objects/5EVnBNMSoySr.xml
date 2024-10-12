@@ -4,7 +4,9 @@
     <stringProperty name=":Proteus-name" category="general"><![CDATA[Entorno software actual]]></stringProperty>
     <dateProperty name=":Proteus-date" category="general">2024-10-11</dateProperty>
     <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
-    <traceProperty name="created-by" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
+    <traceProperty name="created-by" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author">
+      <trace target="7ag8PDFUAgUS" traceType=":Proteus-author"/>
+    </traceProperty>
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
     <markdownProperty name="text" category="detail"><![CDATA[A través de una reunión hemos podido preguntarle sobre el nivel de software con el que cuenta la empresa y nos informó sobre la importante necesidad y falta de una base de datos específica capaz de llevar toda la parte de cursos, el movimiento de los datos de estudiantes y el reviso de los pagos mensuales.
 

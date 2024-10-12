@@ -5,7 +5,10 @@
     <stringProperty name=":Proteus-name" category="general"><![CDATA[Contratación de personal]]></stringProperty>
     <dateProperty name=":Proteus-date" category="general">2024-10-10</dateProperty>
     <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
-    <traceProperty name="created-by" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
+    <traceProperty name="created-by" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author">
+      <trace target="3GFRVJuqSype" traceType=":Proteus-author"/>
+      <trace target="7ag8PDFUAgUS" traceType=":Proteus-author"/>
+    </traceProperty>
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
     <markdownProperty name="description" category="detail"><![CDATA[En este proceso de negocio, el propietario iniciará un proceso de contratación en el cual, una vez encontrado a un profesional de su preferencia, enviará un mensaje con la información y condiciones del trabajo.
 Si el profesional rechaza la oferta se dará por terminado el proceso, sino pedirá el contrato para firmarlo. En caso de no recibir respuesta al mensaje inicial de contacto, se repetirá el proceso.]]></markdownProperty>
