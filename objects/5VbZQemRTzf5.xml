@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="5VbZQemRTzf5" classes="general-traceable-object paragraph" acceptedChildren=":Proteus-none" acceptedParents=":Proteus-document section">
+  <properties>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Dominio del problema]]></stringProperty>
+    <dateProperty name=":Proteus-date" category="general">2024-10-12</dateProperty>
+    <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
+    <traceProperty name="created-by" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
+    <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
+    <markdownProperty name="text" category="detail"><![CDATA[Naturalmente es un centro de formación especializado en terapias naturales y manuales, que ofrece tanto cursos como tratamientos a diversos tipos de usuarios, desde estudiantes hasta clientes. La empresa cuenta con más de 23 años de experiencia, y tiene una sede física en Sevilla y otra en Huelva, aunque para este proyecto nos centraremos únicamente en la de Sevilla. 
+
+
+Naturalmente cuenta con un equipo de 12 profesionales sanitarios que imparten los cursos y tratamientos. Los tipos de cursos y tratamientos que se ofrecen son diversos, algunos de ellos son reflexología, quiromasaje, acupuntura, osteopatía, kinesiología, maderoterapia, nutrición deportiva… Cada curso tiene una capacidad de entre 8 y 18 alumnos, que recibirán tanto formación teórica como práctica. 
+
+
+Además, la sede de Sevilla dispone de una gran variedad de instalaciones: áreas teóricas, zonas de práctica, recepción, vestuarios, venta de productos y zonas de tratamientos. Con respecto a las partes interesadas en el proyecto, distinguimos alumnos, clientes, docentes, profesionales de tratamientos y personal administrativo.]]></markdownProperty>
+    <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object" traceType=":Proteus-dependency"/>
+    <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
+  </properties>
+  <children/>
+</object>
