@@ -4,5 +4,16 @@
     <stringProperty name=":Proteus-name" category="general"><![CDATA[Glosario de acrónimos y abreviaturas]]></stringProperty>
     <markdownProperty name="comments" category="general"><![CDATA[]]></markdownProperty>
   </properties>
-  <children/>
+  <children>
+    <child id="8MXSkdrY9qQQ"/>
+    <child id="3uYeGmqSe2Zr"/>
+    <child id="67Dbtpx6jTEy"/>
+    <child id="7vqaWAijzPcr"/>
+    <child id="72K8crfueET9"/>
+    <child id="7fvxSZjkAEzU"/>
+    <child id="334syUXCsjm2"/>
+    <child id="3Nyfo2Czp67z"/>
+    <child id="762jvBrUZM8s"/>
+    <child id="5gdfcs846kT3"/>
+  </children>
 </object>
