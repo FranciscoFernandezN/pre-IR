@@ -10,7 +10,7 @@
       <trace target="7ag8PDFUAgUS" traceType=":Proteus-author"/>
     </traceProperty>
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
-    <markdownProperty name="description" category="detail"><![CDATA[En este proceso de negocio, un alumno se inscribe en un curso determinado. Para ello, requiere que este contacte con un responsable y se produzca un intercambio de mensajes que dure hasta que se vean resueltas todas las dudas del interesado. Posteriormente a esto el alumno procederá a ingresar el pago de inscripción]]></markdownProperty>
+    <markdownProperty name="description" category="detail"><![CDATA[En este proceso de negocio, un alumno se inscribe en un curso determinado. Para ello, requiere que este contacte con un responsable y se produzca un intercambio de mensajes que dure hasta que se vean resueltas todas las dudas del interesado. Posteriormente a esto el alumno procederá a ingresar el pago de inscripción.]]></markdownProperty>
     <enumProperty name="importance" category="detail" choices="tbd critical high medium low optional">critical</enumProperty>
     <fileProperty name="diagram" category="detail" tooltip="file-info"><![CDATA[]]></fileProperty>
     <integerProperty name="width" category="detail" tooltip="width-info">20</integerProperty>

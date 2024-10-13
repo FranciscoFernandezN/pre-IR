@@ -9,7 +9,7 @@
       <trace target="3GFRVJuqSype" traceType=":Proteus-author"/>
     </traceProperty>
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
-    <markdownProperty name="description" category="detail"><![CDATA[Persona al cargo de algún/os centro/s de *Naturalmente*]]></markdownProperty>
+    <markdownProperty name="description" category="detail"><![CDATA[Persona al cargo de algún/os centro/s de *Naturalmente*.]]></markdownProperty>
     <traceProperty name="participates-in" category="detail" acceptedTargets="business-process" traceType=":Proteus-dependency">
       <trace target="pjiAzMQdv7od" traceType=":Proteus-dependency"/>
       <trace target="43gS3LALZKRf" traceType=":Proteus-dependency"/>
