@@ -11,8 +11,8 @@
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
     <markdownProperty name="description" category="detail"><![CDATA[Un usuario registrado como cliente podrá pedir cita a un profesional documentando su problema y sus días y horas disponibles. Una vez dado, un profesional eligirá uno de esos días y horas para darle cita de un tratamiento. Para la fiabilidad de que este cliente asistirá, se le cobrará un adelanto con sus datos bancarios.]]></markdownProperty>
     <enumProperty name="importance" category="detail" choices="tbd critical high medium low optional">high</enumProperty>
-    <fileProperty name="diagram" category="detail" tooltip="file-info"><![CDATA[]]></fileProperty>
-    <integerProperty name="width" category="detail" tooltip="width-info">20</integerProperty>
+    <fileProperty name="diagram" category="detail" tooltip="file-info"><![CDATA[diagrama cita.svg]]></fileProperty>
+    <integerProperty name="width" category="detail" tooltip="width-info">100</integerProperty>
     <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object business-requirement" traceType=":Proteus-dependency"/>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>
